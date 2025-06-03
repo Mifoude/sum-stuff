@@ -1,2 +1,2 @@
 # sum-stuff
-no
+simple-funny codes
